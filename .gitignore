@@ -1,0 +1,25 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go build artifacts
+/bin/
+/dist/
+*.test
+*.out
+
+# Dependency files
+go.sum
+vendor/
+
+# IDE and editor settings
+.vscode/
+.idea/
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
